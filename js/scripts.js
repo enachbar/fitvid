@@ -7,4 +7,7 @@ $(document).ready(function(){
   
   // Your Scripts
 
+$(".container").fitVids();
+
+
 });
